@@ -21,7 +21,7 @@ export const Vapers = [
       "title": "Fruta de la PASIÓN",
       "description": "Sabemos que te llama la atención, pero no te atreves, esta combinación de fruta del dragón, kiwi, mora y piña hará que todo el que te rodea quiera probar esa ¡BARBARIDAD!",
       "tags": ["Fruta-Pasión", "Kiwi", "Mora", "Piña"],
-      "image": "http://drive.google.com/uc?id=1EO9-Ys13w2e47ejdLjNrz9Ro5m8sEJ8f"
+      "image": "http://drive.google.com/uc?id=17R7fWdwq1_rkhQl4yLrcOUPD8-gvVi9g"
   },
   {
       "title": "Menta Polar",
