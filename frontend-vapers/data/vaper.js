@@ -9,7 +9,7 @@ export const Vapers = [
       "title": "Refresco de Cocacola Hielo",
       "description": "Esos momentos cuando bebes una cocacola congeladiiisima y aparece esa sonrisa de satisfacción, ahora puedes conseguirlo en cualquier momento de calor, ¡Te lo aseguro! COCACOLA HELADA",
       "tags": ["Cocacola", "Hielo"],
-      "image": "https://drive.google.com/uc?id=1-4uvM5vnUUwgc9lZpwnkMbRr06qsHsji"
+      "image": "https://drive.google.com/uc?id=10oN5Qu4U6Oue4Fmc4rOEoJ3kSbHrYbFf"
   },
   {
       "title": "Melón con Manzana FUJI",
