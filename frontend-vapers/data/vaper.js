@@ -31,7 +31,7 @@ export const Vapers = [
   },
   {
       "title": "Limonada de Frambuesa-Limón",
-      "description": "¡Para qué más! Esta LIMONADA de FRAMBUESA, LIMÓN no solo hará que cierres los ojos de placer, necesitarás almenos ¡50 como esta!",
+      "description": "¡Para qué más! Esta LIMONADA de FRAMBUESA, LIMÓN no solo hará que cierres los ojos de placer, necesitarás al menos ¡50 como esta!",
       "tags": ["Limonada", "Frambuesa", "Limón"],
       "image": "https://drive.google.com/uc?id=1-6pI5ct1m2QnprZy-KjHcHESrHJdflj8"
   },
