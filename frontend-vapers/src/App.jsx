@@ -5,6 +5,8 @@ import { Header } from './components/Header'
 import { Hero } from './components/Hero'
 
 function App () {
+  const bannerUrl = 'https://drive.google.com/uc?id=1uUtQ6C78BrRuESJkhDF1jNt5eVYpsU57'
+  
   return (
     <div className='leading-normal tracking-normal text-indigo-400'>
       <div
@@ -15,6 +17,7 @@ function App () {
         <Hero />
       </div>
       <div className='bg-neutral-100'>
+        <img className='w-full h-20' src={bannerUrl} alt='banner oferta' />
         <div className='flex justify-center align-center py-8'>
           <h1 className='text-3xl text-stone-900 font-bold'>
             Catálogo
