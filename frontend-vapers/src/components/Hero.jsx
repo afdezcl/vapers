@@ -21,12 +21,11 @@ export const Hero = () => {
             </label>
           </div>
           <div className="flex items-center justify-center ">
-            <button
-              className="bg-gradient-to-r from-purple-800 to-green-500 hover:from-pink-500 hover:to-green-500 text-white text-lg font-bold px-12 py-4 rounded focus:ring transform transition hover:scale-105 duration-300 ease-in-out"
-              type="button"
-            >
-              Ver catálogo
-            </button>
+            <a href="https://www.instagram.com/yourvapers/" target="_blank">
+              <button className="bg-gradient-to-r from-purple-800 to-green-500 hover:from-pink-500 hover:to-green-500 text-white text-lg font-bold px-12 py-4 rounded focus:ring transform transition hover:scale-105 duration-300 ease-in-out" type="button">
+                Contacta
+              </button>
+            </a>
           </div>
         </div>
       </div>
